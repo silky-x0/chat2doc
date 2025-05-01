@@ -1,0 +1,21 @@
+{
+  "name": "chat2doc",
+  "version": "1.0.0",
+  "description": "A React app that will allow users to to talk with their Documents, PDFs etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silky-x0/chat2doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/silky-x0/chat2doc/issues"
+  },
+  "homepage": "https://github.com/silky-x0/chat2doc#readme"
+}
