@@ -55,7 +55,7 @@ PORT=5000
 MONGODB_URI=your_mongodb_uri
 ```
 
-## 🏃‍♂️ Running the Application
+## 🏃‍♂️ Running the Application 
 
 1. Start the development servers:
 
