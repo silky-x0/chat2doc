@@ -1,15 +1,12 @@
-import { Button } from "./components/ui/button"
+import Header from "./components/Header"
+import Hero from "./components/Hero"
 
 function App() {
   return (
-    <>
-      <div className='h-[300px] w-full bg-blue-500 flex justify-center items-center'>
-        <p className="bg-red-500 p-4 text-white h-full md:h-1/2 flex items-center">
-          This text will change height at 768px viewport width
-        </p>
-        <Button>Click here vro</Button>
-      </div>
-    </>
+    <div className="min-h-screen flex flex-col bg-zinc-100">
+      <Header />
+      <Hero />
+    </div>
   )
 }
 
